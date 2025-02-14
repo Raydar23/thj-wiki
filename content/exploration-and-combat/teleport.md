@@ -336,6 +336,7 @@ Near Maiden's Eye in a hut
 {{<expand "The Twilight Sea (twilight)" "..." >}}
 {{</expand>}}
 {{<expand "The Scarlet Desert (scarlet)" "..." >}}
+Near Twilight Sea Zone Line
 {{</expand>}}
 
 
